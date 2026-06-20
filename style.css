@@ -1,0 +1,52 @@
+body{
+background-image:url("perfil.jpg");
+background-repeat:no-repeat;
+background-size:cover;
+background-position:center;
+background-attachment:fixed;
+min-height:100vh;
+color:white;
+}
+h3{
+margin-left:-1000px;
+margin-top:100px;
+color:#7c51a0;
+font-family:monospace;
+}
+
+h1{
+    margin-left:-1000px;
+    margin-top:-10px;
+    color:white;
+    font-family:monospace;
+}
+.cx1{
+margin-left:1700px;
+margin-top:-30px;
+}
+a [src="Facebook.png"]{
+margin:20px;
+margin-top:150px;
+height:100px;
+width:100px;
+}
+.a1{
+font-family:monospace;
+color:#7c51a0;
+}
+
+.a2 {
+margin:20px;
+}
+.a3{
+margin:20px;
+}
+.a1 button{
+color:#7c51a0;
+background:black;
+cursor:pointer;
+border:2px#7c51a0;
+box-shadow:0 0 30px #7c51a0;
+}
+
+
